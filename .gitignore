@@ -1,0 +1,7 @@
+*#
+*.sw*
+results/*
+Capfile.local
+nohup*
+*.htaccess*
+*~

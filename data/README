@@ -1,0 +1,32 @@
+----
+
+CMN065 : E12.5 vTC Input
+CMN066 : E12.5 vTC REST ChIP
+
+----
+
+Initial datafiles from GIS were 
+
+CMN065_vTC_input_s_7_export.zip
+CMN066_vTC_Mash-1_s_8_export.zip
+
+Totally failed to align to mouse genome. Further investigation revealed that they aligned well to the 
+human genome, suggesting a mix up of files somewhere. Asked GIS to check and resend files.
+
+Received new files from Irene Askoy (askoyi@gis.a-star.edu.sg) on 06/04/2011 however there seems to 
+be some kind of confusion as we have received 2 files for each lane. They are not simple duplicates
+as the file sizes differ. 
+
+Irene thinks that these files are the originals:
+
+CMN065_s_7_export.zip
+CMN066_s_8_export.zip
+
+
+And these files are the results of a second run:
+
+CMN065_export.zip
+CMN066_export.zip
+
+
+

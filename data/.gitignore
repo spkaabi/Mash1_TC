@@ -1,8 +1,0 @@
-*#
-*.sw*
-results/*
-Capfile.local
-*.zip
-*export.txt
-*nohup*
-*.htaccess*

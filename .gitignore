@@ -5,3 +5,5 @@ Capfile.local
 nohup*
 *.htaccess*
 *~
+data/*
+olddata
